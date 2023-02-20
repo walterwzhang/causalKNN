@@ -1,0 +1,10 @@
+.git
+^.*\.Rproj$
+^\.Rproj\.user$
+.Rd2pdf16381
+.travis.yml
+^doc$
+^Meta$
+^.*\.pdf
+^docs$
+^_pkgdown\.yml$

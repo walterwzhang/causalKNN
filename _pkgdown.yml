@@ -1,0 +1,9 @@
+home:
+  strip_header: true
+
+articles:
+- title: All vignettes
+  navbar: ~
+  contents:
+  - causalKNN-Intro
+  - causalKNN-Bootstrap

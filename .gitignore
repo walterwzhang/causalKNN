@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+src/*.o
+src/*.so
+src/*.dll
+src/*.o*c
+Read-and-delete-me
+*.Rproj
+inst/doc
+.Rd2pdf16381
+doc
+Meta
+/doc/
+/Meta/
