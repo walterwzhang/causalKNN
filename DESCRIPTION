@@ -28,5 +28,5 @@ LinkingTo: Rcpp, RcppArmadillo
 RoxygenNote: 7.2.3
 Encoding: UTF-8
 VignetteBuilder: knitr
-URL: https://github.com/walterwzhang/causalKNN-dev
-BugReports: https://github.com/walterwzhang/causalKNN-dev/issues
+URL: https://github.com/walterwzhang/causalKNN
+BugReports: https://github.com/walterwzhang/causalKNN/issues
