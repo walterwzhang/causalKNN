@@ -39,7 +39,7 @@ vignette("causalKNN-Bootstrap")
 
 ## Notes
 
-- The changelog can be found in [NEWS.md](NEWS.md)
+- The changelog can be found in [NEWS.md](https://walterwzhang.github.io/causalKNN/news/index.html)
 - The K nearest neighbor index matrices are computed using the `knn.index.dist` function from the `KernelKnn` package
 - The Elastic-Net (using `glmnet`) is offered as the treatment effect projection's regression algorithm
 
