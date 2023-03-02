@@ -1,16 +1,23 @@
 Package: causalKNN
 Type: Package
-Title: Causal KNN Treatment Effect Estimation
+Title: Causal KNN and Treatment Effect Projection Estimation
 Version: 0.3
-Authors@R: c(
-    person("Walter", "Zhang", , "walterwzhang@chicagobooth.edu",  role = c("aut", "cre")
-    ),
-    person("Guenter", "Hitsch", role = "aut"
-    ),
-    person("Sanjog", "Misra", role = "aut")
-    )
+Authors@R: 
+    c(person(given = "Walter",
+             family = "Zhang",
+             role = c("aut", "cre"),
+             email = "walterwzhang@chicagobooth.edu"),
+      person(given = "Guenter", 
+             family = "Hitsch", 
+             role = "aut"),
+      person(given = "Sanjog", 
+             family = "Misra", 
+             role = "aut")
+			 )
 Description: The causalKNN package provides causal KNN regression and treatment effect projection
-    algorithms following Hitsch, Misra, and Zhang (2023).
+    algorithms following Hitsch, Misra, and Zhang (2023),
+     Heterogeneous Treatment Effects and Optimal Targeting Policy Evaluation,
+    <https://dx.doi.org/10.2139/ssrn.3111957>.
 License: GPL-3
 Depends: R (>= 3.1.0)
 Imports:

@@ -1,4 +1,4 @@
-# causalKNN: causal KNN and TEP treatment effect estimation
+# causalKNN: Causal KNN and TEP treatment effect estimation
 
 ## Overview
 
@@ -43,3 +43,7 @@ vignette("causalKNN-Bootstrap")
 - The K nearest neighbor index matrices are computed using the `knn.index.dist` function from the `KernelKnn` package
 - The Elastic-Net (using `glmnet`) is offered as the treatment effect projection's regression algorithm
 
+
+## References
+
+Hitsch, Guenter J. and Misra, Sanjog and Zhang, Walter, **Heterogeneous Treatment Effects and Optimal Targeting Policy Evaluation** (February 28, 2023). Available at SSRN: https://ssrn.com/abstract=3111957 or http://dx.doi.org/10.2139/ssrn.3111957
